@@ -1,0 +1,25 @@
+.restart {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 2rem;
+    margin: 5rem 20vw;
+}
+
+.restart p {
+    font-size: 1.5rem;
+    font-family: cursive;
+    font-weight: 800;
+}
+
+.restart button {
+    background-color: black;
+    padding: 2rem;
+    font-size: 2rem;
+    font-weight: 800;
+    color: blue;
+    border: 3px solid black;
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px rgb(30, 29, 29);
+    cursor: pointer;
+}

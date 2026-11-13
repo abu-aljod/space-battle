@@ -1,0 +1,15 @@
+.lose {
+    text-align: center;
+    color: gray;
+}
+
+.win {
+    text-align: center;
+    color: rgb(12, 197, 12);
+    font-weight: bold;
+}
+
+.draw {
+    text-align: center;
+    color: black;
+}

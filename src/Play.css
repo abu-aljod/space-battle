@@ -1,0 +1,17 @@
+.fire {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2vw;
+}
+
+.fire-button {
+    background-color: rgb(226, 88, 34);
+    padding: 2rem;
+    font-size: 2rem;
+    font-weight: 800;
+    border: 3px solid rgb(226, 88, 34);
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px rgba(226, 88, 34, 0.6);
+    cursor: pointer;
+}
